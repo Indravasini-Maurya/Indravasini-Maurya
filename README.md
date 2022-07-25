@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Data Analysis & Data Visualization**
+- 🔭 I’m currently working on **Data Analysis & Data Visualization Projects**
 
-- 🌱 I’m currently learning **MYSQL**
+- 🌱 I’m currently learning **MYSQL & Statistics**
 
 - 💬 Ask me about **Python, SQl, Excel, Power BI**
 
