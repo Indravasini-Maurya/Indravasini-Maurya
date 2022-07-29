@@ -1,6 +1,6 @@
 ![MasterHead](https://tbtech.co/wp-content/uploads/2021/12/AdobeStock_457358220-1-1380x548.jpeg)
 <h1 align="center">Hi 👋, I'm Indravasini Maurya</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://mintbook.com/assetsNew/img/finance.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indravasini-maurya&label=Profile%20views&color=0e75b6&style=flat" alt="indravasini-maurya" /> </p>
