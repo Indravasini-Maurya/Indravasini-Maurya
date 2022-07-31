@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, SQl, Excel, Power BI**
 
-- 📫 How to reach me **[Linkedin](https://www.linkedin.com/feed/)**
+- 📫 How to reach me **indravasinimaurya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
